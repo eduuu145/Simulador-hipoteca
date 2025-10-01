@@ -10,7 +10,7 @@ import streamlit as st
 # ========= Configuración y branding =========
 st.set_page_config(page_title="Calculadora de Viabilidad Hipotecaria", page_icon="✅", layout="wide")
 
-BRAND_NAME = "Loanpath"   # cámbialo por tu marca
+BRAND_NAME = "Loanium Finance"   # cámbialo por tu marca
 PRIMARY_COLOR = "#1b3b2f"
 
 st.markdown(f"""
