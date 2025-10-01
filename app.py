@@ -11,7 +11,7 @@ import streamlit as st
 st.set_page_config(page_title="Simulador Hipotecario", page_icon="🏠", layout="wide")
 
 # Branding mínimo (ajusta colores y nombre comercial)
-BRAND_NAME = "Loanpath"  # <-- cambia por tu marca (p.ej., "HabitaLink")
+BRAND_NAME = "Loanium Finance"  # <-- cambia por tu marca (p.ej., "HabitaLink")
 PRIMARY_COLOR = "#1b3b2f"    # oliva oscuro
 
 st.markdown(f"""
